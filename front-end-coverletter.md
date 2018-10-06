@@ -20,18 +20,18 @@ Rahmandika H `Include your name with nickname or fullname`
 
 ==============
 
-### for simplicity, I will give a simple example 
+### For simplicity, I will give a simple example 
 
 Dear Project Owner
 
 I am writing you to apply to the position of Front End Developer. My 3 years years of experience as a Front End Developer for QODR startup has honed my CSS3 and HTML5 skills, as well as my knowledge of mobile and responsive design.
 
-My professional experience includes bringing the wireframes of the UX designer to life through HTML5 and CSS3, as well as collaborating with Back End Developers to create a stellar finished product. I think my skills and experience makes me a great fit for being your worker
+My professional experience includes bringing the wireframes of the UX designer to life through HTML5 and CSS3, as well as collaborating with Back End Developers to create a stellar finished product. I think my skills and experience makes me a great fit for being your worker.
 
 Here are some of my most relevant qualifications and accomplishments:
 
 - Three years of experience as a Front End Developer for a lot of many project
-- Crafted various website features using HTML5 CSS3 and JavaScript
+- Crafted various website features using HTML5/CSS3 and JavaScript
 - Developed and Implemented project scope and timelines based on the design-develop-deploy process
 - Collaborated with UX designers and Back End Developers and ensured coherence between all parties
 - Tested feature prototypes for bugs and user experience
